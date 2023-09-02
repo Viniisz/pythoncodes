@@ -1,0 +1,10 @@
+'''
+DATA: 02/09/2023 ÁS 17:09 
+BY VINICIUSM
+
+NECESSÁRIO INSTALAR AS DEPENDÊNCIAS COM O 'PIP'
+'''
+
+import os
+
+print(os.listdir())
